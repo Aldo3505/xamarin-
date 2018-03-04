@@ -16,14 +16,22 @@ namespace PhilAPPines
     [Activity(Label = "Mindanao")]
     public class Mindanao : Activity
     {
-        Button NMIN;
+        ImageButton NMIN, Sun;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Mindanao);
-            NMIN = FindViewById<Button>(Resource.Id.button1);
+            Sun = FindViewById<ImageButton>(Resource.Id.imageButton1);
+            NMIN = FindViewById<ImageButton>(Resource.Id.imageButton2);
             NMIN.Click += NMIN_Click;
+            Sun.Click += Sun_Click;
             // Create your application here
+        }
+
+        private void Sun_Click(object sender, EventArgs e)
+        {
+            Intent HomePage = new Intent(this, typeof(MainActivity));
+            StartActivity(HomePage);
         }
 
         private void NMIN_Click (object sender, System.EventArgs e)

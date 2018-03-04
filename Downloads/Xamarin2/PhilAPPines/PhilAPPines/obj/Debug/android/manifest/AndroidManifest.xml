@@ -5,15 +5,46 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:allowBackup="true" android:icon="@mipmap/icon" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
-    <activity android:icon="@drawable/icon" android:label="PhilAPPines" android:theme="@android:style/Theme.Custom" android:name="md5814dbad97d7dc722682a191278992a63.MainActivity">
+    <activity android:label="CALABARZON" android:name="md5814dbad97d7dc722682a191278992a63.CALABARZON" />
+    <activity android:label="CAR" android:name="md5814dbad97d7dc722682a191278992a63.CAR" />
+    <activity android:label="CARFOOD" android:name="md5814dbad97d7dc722682a191278992a63.CARFOOD" />
+    <activity android:label="CARINFO" android:name="md5814dbad97d7dc722682a191278992a63.CARINFO" />
+    <activity android:label="CARPLACES" android:name="md5814dbad97d7dc722682a191278992a63.CARPLACES" />
+    <activity android:label="CARPPL" android:name="md5814dbad97d7dc722682a191278992a63.CARPPL" />
+    <activity android:label="CBZNFOOD" android:name="md5814dbad97d7dc722682a191278992a63.CBZNFOOD" />
+    <activity android:label="CBZNINFO" android:name="md5814dbad97d7dc722682a191278992a63.CBZNINFO" />
+    <activity android:label="CBZNPLACES" android:name="md5814dbad97d7dc722682a191278992a63.CBZNPLACES" />
+    <activity android:label="CBZNPPL" android:name="md5814dbad97d7dc722682a191278992a63.CBZNPPL" />
+    <activity android:label="CENTRALLUZON" android:name="md5814dbad97d7dc722682a191278992a63.CENTRALLUZON" />
+    <activity android:label="CLFOOD" android:name="md5814dbad97d7dc722682a191278992a63.CLFOOD" />
+    <activity android:label="CLINFO" android:name="md5814dbad97d7dc722682a191278992a63.CLINFO" />
+    <activity android:label="CLPLACES" android:name="md5814dbad97d7dc722682a191278992a63.CLPLACES" />
+    <activity android:label="CLPPL" android:name="md5814dbad97d7dc722682a191278992a63.CLPPL" />
+    <activity android:label="CVISAYASINFO" android:name="md5814dbad97d7dc722682a191278992a63.CVISAYASINFO" />
+    <activity android:label="CVISAYASPLACES" android:name="md5814dbad97d7dc722682a191278992a63.CVISAYASPLACES" />
+    <activity android:label="CVISAYASPPL" android:name="md5814dbad97d7dc722682a191278992a63.CVISAYASPPL" />
+    <activity android:label="EASTERNVISAYAS" android:name="md5814dbad97d7dc722682a191278992a63.EASTERNVISAYAS" />
+    <activity android:icon="@drawable/icon" android:label="PhilAPPines" android:theme="@style/Theme.Custom" android:name="md5814dbad97d7dc722682a191278992a63.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:label="NMINFOOD" android:name="md5814dbad97d7dc722682a191278992a63.NMINFOOD" />
+    <activity android:label="NMININFO" android:name="md5814dbad97d7dc722682a191278992a63.NMININFO" />
+    <activity android:label="NMINPLACES" android:name="md5814dbad97d7dc722682a191278992a63.NMINPLACES" />
+    <activity android:label="NMINPPL" android:name="md5814dbad97d7dc722682a191278992a63.NMINPPL" />
+    <activity android:label="NORTHERNMINDANAO" android:name="md5814dbad97d7dc722682a191278992a63.NORTHERNMINDANAO" />
     <activity android:label="Luzon" android:name="md5814dbad97d7dc722682a191278992a63.Luzon" />
     <activity android:label="Visayas" android:name="md5814dbad97d7dc722682a191278992a63.Visayas" />
     <activity android:label="Mindanao" android:name="md5814dbad97d7dc722682a191278992a63.Mindanao" />
+    <activity android:label="CVISAYAS" android:name="md5814dbad97d7dc722682a191278992a63.CVISAYAS" />
+    <activity android:label="CVISAYASFOOD" android:name="md5814dbad97d7dc722682a191278992a63.CVISAYASFOOD" />
+    <activity android:label="WESTERNVISAYAS" android:name="md5814dbad97d7dc722682a191278992a63.WESTERNVISAYAS" />
+    <activity android:label="WVISAYASFOOD" android:name="md5814dbad97d7dc722682a191278992a63.WVISAYASFOOD" />
+    <activity android:label="WVISAYASINFO" android:name="md5814dbad97d7dc722682a191278992a63.WVISAYASINFO" />
+    <activity android:label="WVISAYASPLACES" android:name="md5814dbad97d7dc722682a191278992a63.WVISAYASPLACES" />
+    <activity android:label="WVISAYASPPL" android:name="md5814dbad97d7dc722682a191278992a63.WVISAYASPPL" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.PhilAPPines.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

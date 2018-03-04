@@ -9,22 +9,22 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
-namespace Visayas
+namespace PhilAPPines
 {
-    [Activity(Label = "Visayas", MainLauncher = true)]
-    public class MainActivity : Activity
+    [Activity(Label = "Visayas")]
+    public class Visayas : Activity
     {
-        Button CBZN, CAR, CL;
+        ImageButton WVIS, CVIS, Sun;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
 
-            // Set our view from the "main" layout resource
-            SetContentView(Resource.Layout.Main);
-            WVIS = FindViewById<Button>(Resource.Id.button1);
-            EVIS = FindViewById<Button>(Resource.Id.button2);
-            WVIS.Click += CBZN_Click;
-            EVIS.Click += CAR_Click;
+            SetContentView(Resource.Layout.Visayas);
+            Sun = FindViewById<ImageButton>(Resource.Id.imageButton1);
+            WVIS = FindViewById<ImageButton>(Resource.Id.imageButton2);
+            CVIS = FindViewById<ImageButton>(Resource.Id.imageButton3);
+            WVIS.Click += WVIS_Click;
+            CVIS.Click += CVIS_Click;
         }
 
         private void WVIS_Click(object sender, System.EventArgs e)
@@ -33,10 +33,10 @@ namespace Visayas
             StartActivity(WVISpage);
         }
 
-        private void EVIS_Click(object sender, System.EventArgs e)
+        private void CVIS_Click(object sender, System.EventArgs e)
         {
-            Intent EVISpage = new Intent(this, typeof(CAR));
-            StartActivity(EVISpage);
+            Intent CVISpage = new Intent(this, typeof(CVISAYAS));
+            StartActivity(CVISpage);
         }
 
     }

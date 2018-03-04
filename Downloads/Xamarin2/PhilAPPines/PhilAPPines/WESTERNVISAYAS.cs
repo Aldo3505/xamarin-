@@ -29,7 +29,6 @@ namespace PhilAPPines
             sun.Click += Sun_Click;
             info.Click += Info_Click;
             food.Click += Food_Click;
-            people.Click += People_Click;
             sites.Click += Sites_Click;
         }
 
@@ -43,12 +42,6 @@ namespace PhilAPPines
         {
             Intent PLACES = new Intent(this, typeof(WVISAYASPLACES));
             StartActivity(PLACES);
-        }
-
-        private void People_Click(object sender, EventArgs e)
-        {
-            Intent PPL = new Intent(this, typeof(WVISAYASPPL));
-            StartActivity(PPL);
         }
 
         private void Food_Click(object sender, EventArgs e)

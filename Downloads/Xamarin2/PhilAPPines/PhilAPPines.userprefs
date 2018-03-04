@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{95BFE0E4-984E-4FB9-B97B-74867E9704A1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PhilAPPines/MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhilAPPines/WESTERNVISAYAS.cs">
     <Files>
       <File FileName="PhilAPPines/obj/Debug/android/manifest/AndroidManifest.xml" Line="28" Column="22" />
-      <File FileName="PhilAPPines/MainActivity.cs" Line="48" Column="13" />
+      <File FileName="PhilAPPines/WESTERNVISAYAS.cs" Line="45" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

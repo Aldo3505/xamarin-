@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rowCount="15"
+        android:columnCount="3"
+        android:orientation="vertical">
+        <ImageButton
+            android:src="@drawable/logotalaga"
+            android:id="@+id/imageButton1"
+            android:layout_marginBottom="0dp"
+            android:foregroundTint="#ffffff"
+            android:backgroundTintMode="src_atop"
+            android:backgroundTint="#ffffffff"
+            android:adjustViewBounds="@bool/abc_allow_stacked_button_bar"
+            android:background="?android:attr/selectableItemBackground"
+            android:layout_weight="0"
+            android:nestedScrollingEnabled="true"
+            android:gravity="center_horizontal"
+            android:outlineProvider="paddedBounds"
+            android:forceHasOverlappingRendering="false"
+            android:layout_marginLeft="120dp"
+            android:layout_width="150dp"
+            android:layout_height="75dp"
+            android:layout_alignParentRight="true"
+            android:scaleType="centerInside"
+            android:layout_margin="0dp"
+            android:layout_marginRight="50dp" />
+        <TextView
+            android:text="Other Info about WESTERN VISAYAS"
+            android:layout_marginLeft="60dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/textView1" />
+        <TextView
+            android:text="Composed of the following provinces:"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView18" />
+        <TextView
+            android:text="Aklan, Antique, Capiz, Guimaras, Iloilo and Negros Occidental"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView19" />
+        <TextView
+            android:text="Languages: Hiligaynon, Aklanon, Capiznon, Kinaray-a, Cebuano, Filipino"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView8" />
+        <TextView
+            android:text="Fun facts: "
+            android:layout_marginLeft="153dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView14" />
+        <TextView
+            android:text="1. For years 2015-2017, Negros Occidental was merged with Negros Oriental to form the Negros Island Region"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView13" />
+        <TextView
+            android:text="2. Guimaras is a well-known producer of the world's sweetest variety of mangoes, the carabao type"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView8" />
+        <TextView
+            android:text="3. Iloilo is the region's rice granary and food basket."
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView14" />
+    </GridLayout>
+</LinearLayout>

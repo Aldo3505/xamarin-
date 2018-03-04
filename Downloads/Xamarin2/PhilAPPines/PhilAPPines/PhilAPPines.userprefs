@@ -1,0 +1,12 @@
+﻿<Properties StartupConfiguration="{95BFE0E4-984E-4FB9-B97B-74867E9704A1}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Tafline/Desktop/Xamarin2/PhilAPPines/PhilAPPines/Resources/layout/Main.axml" relfile="Resources/layout/Main.axml" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PhilAPPines AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.Custom" />
+</Properties>

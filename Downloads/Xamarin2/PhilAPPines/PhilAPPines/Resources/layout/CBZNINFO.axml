@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rowCount="12"
+        android:columnCount="3"
+        android:orientation="vertical">
+        <ImageButton
+            android:src="@drawable/logotalaga"
+            android:id="@+id/imageButton1"
+            android:layout_marginBottom="0dp"
+            android:foregroundTint="#ffffff"
+            android:backgroundTintMode="src_atop"
+            android:backgroundTint="#ffffff"
+            android:adjustViewBounds="@bool/abc_allow_stacked_button_bar"
+            android:background="?android:attr/selectableItemBackground"
+            android:layout_weight="0"
+            android:nestedScrollingEnabled="true"
+            android:gravity="center_horizontal"
+            android:outlineProvider="paddedBounds"
+            android:forceHasOverlappingRendering="false"
+            android:layout_marginLeft="120dp"
+            android:layout_width="150dp"
+            android:layout_height="75dp"
+            android:layout_alignParentRight="true"
+            android:scaleType="centerInside"
+            android:layout_margin="0dp"
+            android:layout_marginRight="50dp" />
+        <TextView
+            android:text="Other Info about CALABARZON"
+            android:layout_marginLeft="45dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/textView1" />
+        <TextView
+            android:text="Also known as: Southern Tagalog Mainland, Region IV-A"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView4" />
+        <TextView
+            android:text="Composed of the following provinces:"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView9" />
+        <TextView
+            android:text="Cavite, Laguna, Batangas, Rizal, and Quezon"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView9" />
+        <TextView
+            android:text="Languages: Chavacano, Filipino, English"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView2" />
+        <TextView
+            android:text="Products: honey, flowers, bamboo, root crops"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView3" />
+        <TextView
+            android:text="Regional Center: Calamba, Laguna"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView5" />
+        <TextView
+            android:text="Distance from Ateneo to the region: 79.0km"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView9" />
+        <TextView
+            android:text="Fun facts: "
+            android:layout_marginLeft="153dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView6" />
+        <TextView
+            android:text="1. Laguna is the historical capital of the Philippines"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView7" />
+        <TextView
+            android:text="2. Quezon is the coconut capital of the Philippines"
+            android:layout_marginLeft="35dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView10" />
+    </GridLayout>
+</LinearLayout>

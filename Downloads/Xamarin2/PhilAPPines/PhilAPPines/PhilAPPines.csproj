@@ -160,6 +160,17 @@
     <AndroidResource Include="Resources\drawable\CVISfood3.jpg" />
     <AndroidResource Include="Resources\drawable\CARfood2.jpg" />
     <AndroidResource Include="Resources\drawable\CARfood3.JPG" />
+    <AndroidResource Include="Resources\drawable\NMINfood1.jpg" />
+    <AndroidResource Include="Resources\drawable\NMINfood2.jpg" />
+    <AndroidResource Include="Resources\drawable\NMINfood3.jpg" />
+    <AndroidResource Include="Resources\drawable\NMINfood4.jpg" />
+    <AndroidResource Include="Resources\drawable\WVISfood1.jpg" />
+    <AndroidResource Include="Resources\drawable\WVISfood2.jpg" />
+    <AndroidResource Include="Resources\drawable\WVISfood3.jpg" />
+    <AndroidResource Include="Resources\drawable\NMINppl1.jpg" />
+    <AndroidResource Include="Resources\drawable\NMINppl2.jpg" />
+    <AndroidResource Include="Resources\drawable\NMINppl3.jpg" />
+    <AndroidResource Include="Resources\drawable\NMINppl4.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />

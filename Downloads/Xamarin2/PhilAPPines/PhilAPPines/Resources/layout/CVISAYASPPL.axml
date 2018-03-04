@@ -62,11 +62,11 @@
             android:columnCount="2"
             android:id="@+id/gridLayout1">
             <ImageButton
-                android:src="@drawable/CARcascaron"
+                android:src="@drawable/cvisppl1"
                 android:id="@+id/imageButton3"
                 android:layout_width="180dp"
                 android:layout_height="110dp"
-                android:scaleType="centerCrop"
+                android:scaleType="fitXY"
                 android:foregroundTint="#ffffff"
                 android:backgroundTintMode="src_atop"
                 android:backgroundTint="#ffffff"
@@ -79,9 +79,9 @@
                 android:layout_margin="10dp"
                 android:layout_marginRight="0.5dp" />
             <ImageButton
-                android:src="@drawable/CARfood1"
+                android:src="@drawable/cvisppl2"
                 android:id="@+id/imageButton4"
-                android:scaleType="centerCrop"
+                android:scaleType="fitXY"
                 android:layout_width="180dp"
                 android:layout_height="110dp"
                 android:foregroundTint="#ffffff"
@@ -99,9 +99,9 @@
                 android:layout_gravity="left"
                 android:layout_marginTop="10dp" />
             <ImageButton
-                android:src="@drawable/CARkiniwar"
+                android:src="@drawable/cvisppl3"
                 android:id="@+id/imageButton6"
-                android:scaleType="centerCrop"
+                android:scaleType="fitXY"
                 android:layout_width="180dp"
                 android:layout_height="110dp"
                 android:foregroundTint="#ffffff"
@@ -119,9 +119,9 @@
                 android:layout_gravity="left"
                 android:layout_marginTop="1.5dp" />
             <ImageButton
-                android:src="@drawable/CARplaces"
+                android:src="@drawable/cvisppl4"
                 android:id="@+id/imageButton5"
-                android:scaleType="centerCrop"
+                android:scaleType="fitXY"
                 android:layout_width="180dp"
                 android:layout_height="110dp"
                 android:foregroundTint="#ffffff"

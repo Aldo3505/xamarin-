@@ -23,11 +23,11 @@ namespace PhilAPPines
 
             SetContentView(Resource.Layout.CVISAYAS);
             sun = FindViewById<ImageButton>(Resource.Id.imageButton1);
-            info = FindViewById<ImageButton>(Resource.Id.imageButton5);
-            food = FindViewById<ImageButton>(Resource.Id.imageButton2);
-            people = FindViewById<ImageButton>(Resource.Id.imageButton3);
-            sites = FindViewById<ImageButton>(Resource.Id.imageButton4);
-            //subject to change due to unfinished axml files
+            info = FindViewById<ImageButton>(Resource.Id.imageButton6);
+            //There is no image button2
+            food = FindViewById<ImageButton>(Resource.Id.imageButton3);
+            people = FindViewById<ImageButton>(Resource.Id.imageButton4);
+            sites = FindViewById<ImageButton>(Resource.Id.imageButton5);
             sun.Click += Sun_Click;
             info.Click += Info_Click;
             food.Click += Food_Click;

@@ -212,6 +212,29 @@
     <AndroidResource Include="Resources\drawable\NMINppl3.jpg" />
     <AndroidResource Include="Resources\drawable\NMINppl4.jpg" />
     <AndroidResource Include="Resources\drawable\icon.jpg" />
+    <AndroidResource Include="Resources\drawable\CARPLACE1.JPG" />
+    <AndroidResource Include="Resources\drawable\CARPLACE2.jpg" />
+    <AndroidResource Include="Resources\drawable\CARPLACE3.jpg" />
+    <AndroidResource Include="Resources\drawable\CARPLACE4.jpg" />
+    <AndroidResource Include="Resources\drawable\CBZNPLACE3.jpg" />
+    <AndroidResource Include="Resources\drawable\CBZNPLACES1.jpg" />
+    <AndroidResource Include="Resources\drawable\CBZNPLACES2.jpg" />
+    <AndroidResource Include="Resources\drawable\CBZNPLACES4.jpg" />
+    <AndroidResource Include="Resources\drawable\CLPLACE1.jpg" />
+    <AndroidResource Include="Resources\drawable\CLPLACE2.jpg" />
+    <AndroidResource Include="Resources\drawable\CLPLACE3.jpg" />
+    <AndroidResource Include="Resources\drawable\CLPLACE4.jpg" />
+    <AndroidResource Include="Resources\drawable\CVISPLACE1.jpg" />
+    <AndroidResource Include="Resources\drawable\CVISPLACE2.jpg" />
+    <AndroidResource Include="Resources\drawable\CVISPLACE3.jpg" />
+    <AndroidResource Include="Resources\drawable\CVISPLACE4.jpg" />
+    <AndroidResource Include="Resources\drawable\NMINPLACE1.jpg" />
+    <AndroidResource Include="Resources\drawable\NMINPLACE2.jpg" />
+    <AndroidResource Include="Resources\drawable\NMINPLACE3.JPG" />
+    <AndroidResource Include="Resources\drawable\NMINPLACE4.jpg" />
+    <AndroidResource Include="Resources\drawable\WVISPLACE1.jpg" />
+    <AndroidResource Include="Resources\drawable\WVISPLACE2.jpg" />
+    <AndroidResource Include="Resources\drawable\WVISPLACE3.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />

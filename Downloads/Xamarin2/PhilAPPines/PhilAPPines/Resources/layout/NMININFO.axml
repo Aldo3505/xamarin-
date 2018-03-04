@@ -33,7 +33,6 @@
         <TextView
             android:text="Other Info about NORTHERN MINDANAO"
             android:layout_marginLeft="60dp"
-            android:textAppearance="?android:attr/textAppearanceLarge"
             android:id="@+id/textView1" />
         <TextView
             android:text="Composed of the following provinces:"

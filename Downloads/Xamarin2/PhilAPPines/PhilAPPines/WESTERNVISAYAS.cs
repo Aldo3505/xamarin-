@@ -22,9 +22,7 @@ namespace PhilAPPines
 
             SetContentView(Resource.Layout.WVIS);
             sun = FindViewById<ImageButton>(Resource.Id.imageButton1);
-            //info = FindViewById<ImageButton>(Resource.Id.imageButton6);
-            //There is no image button2
-            //BUTTONS ARE SUBJECT TO CHANGE
+            info = FindViewById<ImageButton>(Resource.Id.imageButton6);
             food = FindViewById<ImageButton>(Resource.Id.imageButton3);
             people = FindViewById<ImageButton>(Resource.Id.imageButton4);
             sites = FindViewById<ImageButton>(Resource.Id.imageButton5);

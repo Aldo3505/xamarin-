@@ -61,9 +61,9 @@
             android:rowCount="8"
             android:columnCount="2"
             android:id="@+id/gridLayout1">
-            <ImageButton
-                android:src="@drawable/CARplaces"
-                android:id="@+id/imageButton3"
+            <ImageView
+                android:src="@drawable/cbznplaces1"
+                android:id="@+id/imageView2"
                 android:layout_width="180dp"
                 android:layout_height="110dp"
                 android:scaleType="centerCrop"
@@ -78,10 +78,10 @@
                 android:forceHasOverlappingRendering="false"
                 android:layout_margin="10dp"
                 android:layout_marginRight="0.5dp" />
-            <ImageButton
-                android:src="@drawable/CARmountpulag"
-                android:id="@+id/imageButton4"
-                android:scaleType="centerCrop"
+            <ImageView
+                android:src="@drawable/cbznplaces2"
+                android:id="@+id/imageView3"
+                android:scaleType="fitXY"
                 android:layout_width="180dp"
                 android:layout_height="110dp"
                 android:foregroundTint="#ffffff"
@@ -98,9 +98,9 @@
                 android:layout_marginRight="0.0dp"
                 android:layout_gravity="left"
                 android:layout_marginTop="10dp" />
-            <ImageButton
-                android:src="@drawable/CARonmap"
-                android:id="@+id/imageButton6"
+            <ImageView
+                android:src="@drawable/cbznplace3"
+                android:id="@+id/imageView4"
                 android:scaleType="centerCrop"
                 android:layout_width="180dp"
                 android:layout_height="110dp"
@@ -118,9 +118,9 @@
                 android:layout_marginRight="0.0dp"
                 android:layout_gravity="left"
                 android:layout_marginTop="1.5dp" />
-            <ImageButton
-                android:src="@drawable/CARplaces"
-                android:id="@+id/imageButton5"
+            <ImageView
+                android:src="@drawable/cbznplaces4"
+                android:id="@+id/imageView5"
                 android:scaleType="centerCrop"
                 android:layout_width="180dp"
                 android:layout_height="110dp"

@@ -1,19 +1,15 @@
 ﻿<Properties StartupConfiguration="{95BFE0E4-984E-4FB9-B97B-74867E9704A1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PhilAPPines/WESTERNVISAYAS.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhilAPPines/MainActivity.cs">
     <Files>
-      <File FileName="PhilAPPines/MainActivity.cs" Line="18" Column="52" />
-      <File FileName="PhilAPPines/Resources/values/theme.xml" Line="94" Column="52" />
-      <File FileName="PhilAPPines/NORTHERNMINDANAO.cs" Line="25" Column="72" />
-      <File FileName="PhilAPPines/WESTERNVISAYAS.cs" Line="25" Column="74" />
+      <File FileName="PhilAPPines/obj/Debug/android/manifest/AndroidManifest.xml" Line="28" Column="22" />
+      <File FileName="PhilAPPines/MainActivity.cs" Line="48" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/joshua.a.t.tabilog/Downloads/Xamarin2/PhilAPPines/PhilAPPines/Resources/layout/NMININFO.axml" relfile="PhilAPPines/Resources/layout/NMININFO.axml" line="46" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PhilAPPines AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.4_WVGA_Nexus_S_Edited_API_27" AndroidDesignerPreferredTheme="Theme.Custom" />
+  <MonoDevelop.Ide.ItemProperties.PhilAPPines AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_6P_Edited_API_27" AndroidDesignerPreferredTheme="Theme.Custom" />
 </Properties>

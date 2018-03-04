@@ -20,9 +20,9 @@ namespace PhilAPPines
             base.OnCreate(savedInstanceState);
 
             SetContentView(Resource.Layout.Visayas);
-            Sun = FindViewById<ImageButton>(Resource.Id.imageButton1);
-            WVIS = FindViewById<ImageButton>(Resource.Id.imageButton2);
-            CVIS = FindViewById<ImageButton>(Resource.Id.imageButton3);
+            Sun = FindViewById<ImageButton>(Resource.Id.imageButtonSUN);
+            WVIS = FindViewById<ImageButton>(Resource.Id.imageButtonWV);
+            CVIS = FindViewById<ImageButton>(Resource.Id.imageButtonCV);
             WVIS.Click += WVIS_Click;
             CVIS.Click += CVIS_Click;
         }

@@ -127,7 +127,6 @@
     <AndroidResource Include="Resources\layout\WVIS.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
-    <AndroidResource Include="Resources\layout\WVISAYAS.axml" />
     <AndroidResource Include="Resources\layout\NMIN.axml" />
     <AndroidResource Include="Resources\drawable\CARonmap.jpg" />
     <AndroidResource Include="Resources\drawable\CARplaces.jpg" />

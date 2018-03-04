@@ -31,66 +31,79 @@
             android:layout_margin="0dp"
             android:layout_marginRight="50dp" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Other Info about CAR"
             android:layout_marginLeft="90dp"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:id="@+id/textView1" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Full name: Cordillera Administrative Region"
             android:layout_marginLeft="20dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView10" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Languages: Ilocano, Ibaloi, Ifugao"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView2" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Products: honey, bamboo, root crops"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView3" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Distance from Ateneo to the region: 505.3km "
             android:layout_marginLeft="10dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView4" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Fun facts"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView3" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="1. CAR is the only landlocked region in the country."
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView13" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="2. Due to its production of upland vegetables, Benguet is known as the Salad Bowl of the Philippines"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView12" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Festivals: "
             android:layout_marginLeft="153dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView14" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="1. Panagbenga (Baguio Flower Festival)"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView5" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="In the local dialect, Panagbenga means the “season of blooming” and is celebrated on the month when most highland flowers bloom."
             android:layout_marginLeft="7dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView6" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="2. Kawayan Festival, Abra"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView7" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="In appreciation of the abundance of bamboo in the region, street dancing, musical programs involving gongs and bamboo musical instruments, and promotion of bamboo products  are organized for the festival."
             android:layout_marginLeft="3dp"
             android:textAppearance="?android:attr/textAppearanceMedium"

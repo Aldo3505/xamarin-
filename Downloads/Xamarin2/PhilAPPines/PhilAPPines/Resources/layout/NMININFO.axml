@@ -31,51 +31,61 @@
             android:layout_margin="0dp"
             android:layout_marginRight="50dp" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Other Info about NORTHERN MINDANAO"
             android:layout_marginLeft="60dp"
             android:id="@+id/textView1" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Composed of the following provinces:"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView18" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Bukidnon, Camiguin, Lanao del Norte, Misamis Occidental, Misamis Oriental"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView19" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Distance from Ateneo to the region: 1,475km"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView9" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Languages: Cebuano, Boholano, Hiligaynon, Manobo, Maranao, Binukid, Filipino"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView8" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Fun facts: "
             android:layout_marginLeft="153dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView15" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="1. Bukidnon is Mindanao's food basket."
             android:layout_marginLeft="35dp"
             android:layout_marginRight="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView13" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="2. Maria Christina Falls in Iligan supplies hydroelectric power to most of Mindanao."
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView8" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="3. Kagayan means place with a river, while de Oro means golden. "
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView14" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="4. The Battle of Makahambus Hill (in CdO) was one of the victories won by the Filipinos over the Americans during the Philippine-American War."
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"

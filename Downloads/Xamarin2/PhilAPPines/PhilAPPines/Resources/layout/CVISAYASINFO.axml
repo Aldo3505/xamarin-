@@ -31,52 +31,62 @@
             android:layout_margin="0dp"
             android:layout_marginRight="50dp" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Other Info about CENTRAL VISAYAS"
             android:layout_marginLeft="60dp"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:id="@+id/textView1" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Composed of the following provinces:"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView18" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Cebu, Bohol, Siquijor, and Negros Oriental"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView19" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Distance from Ateneo to the region: 763.7km"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView9" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Languages: Cebuano, Boholano, Hiligaynon, Filipino, English"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView8" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Fun facts: "
             android:layout_marginLeft="153dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView15" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="1. Pres. Carlos P. Garcia was from Bohol, while Pres. Sergio Osmeña was from Cebu."
             android:layout_marginLeft="35dp"
             android:layout_marginRight="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView13" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="2. The mystical island of Siquijor is very famous for its magic potions, sorcerers, and witches."
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView8" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="3. Negros Oriental's Silliman University is the oldest Protestant university of Asia."
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView14" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="4. Dumaguete City, Negros Oriental is known as the City of Gentle People."
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"

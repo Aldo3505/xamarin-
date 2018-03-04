@@ -21,10 +21,10 @@ namespace PhilAPPines
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Luzon);
-            Sun = FindViewById<ImageButton>(Resource.Id.imageButton1);
-            CBZN = FindViewById<ImageButton>(Resource.Id.imageButton2);
-            CAR = FindViewById<ImageButton>(Resource.Id.imageButton3);
-            CL = FindViewById<ImageButton>(Resource.Id.imageButton4);
+            Sun = FindViewById<ImageButton>(Resource.Id.imageButtonSUN);
+            CBZN = FindViewById<ImageButton>(Resource.Id.imageButtonCLB);
+            CAR = FindViewById<ImageButton>(Resource.Id.imageButtonCAR);
+            CL = FindViewById<ImageButton>(Resource.Id.imageButtonCL);
             Sun.Click += Sun_Click;
             CBZN.Click += CBZN_Click;
             CAR.Click += CAR_Click;

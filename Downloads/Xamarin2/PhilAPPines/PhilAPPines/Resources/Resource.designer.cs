@@ -799,44 +799,44 @@ namespace PhilAPPines
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0a003e
-			public const int abc_background_cache_hint_selector_material_dark = 2131361854;
-			
 			// aapt resource value: 0x7f0a003f
-			public const int abc_background_cache_hint_selector_material_light = 2131361855;
+			public const int abc_background_cache_hint_selector_material_dark = 2131361855;
 			
 			// aapt resource value: 0x7f0a0040
-			public const int abc_btn_colored_borderless_text_material = 2131361856;
+			public const int abc_background_cache_hint_selector_material_light = 2131361856;
 			
 			// aapt resource value: 0x7f0a0041
-			public const int abc_btn_colored_text_material = 2131361857;
+			public const int abc_btn_colored_borderless_text_material = 2131361857;
 			
 			// aapt resource value: 0x7f0a0042
-			public const int abc_color_highlight_material = 2131361858;
+			public const int abc_btn_colored_text_material = 2131361858;
 			
 			// aapt resource value: 0x7f0a0043
-			public const int abc_hint_foreground_material_dark = 2131361859;
+			public const int abc_color_highlight_material = 2131361859;
 			
 			// aapt resource value: 0x7f0a0044
-			public const int abc_hint_foreground_material_light = 2131361860;
+			public const int abc_hint_foreground_material_dark = 2131361860;
+			
+			// aapt resource value: 0x7f0a0045
+			public const int abc_hint_foreground_material_light = 2131361861;
 			
 			// aapt resource value: 0x7f0a0001
 			public const int abc_input_method_navigation_guard = 2131361793;
 			
-			// aapt resource value: 0x7f0a0045
-			public const int abc_primary_text_disable_only_material_dark = 2131361861;
-			
 			// aapt resource value: 0x7f0a0046
-			public const int abc_primary_text_disable_only_material_light = 2131361862;
+			public const int abc_primary_text_disable_only_material_dark = 2131361862;
 			
 			// aapt resource value: 0x7f0a0047
-			public const int abc_primary_text_material_dark = 2131361863;
+			public const int abc_primary_text_disable_only_material_light = 2131361863;
 			
 			// aapt resource value: 0x7f0a0048
-			public const int abc_primary_text_material_light = 2131361864;
+			public const int abc_primary_text_material_dark = 2131361864;
 			
 			// aapt resource value: 0x7f0a0049
-			public const int abc_search_url_text = 2131361865;
+			public const int abc_primary_text_material_light = 2131361865;
+			
+			// aapt resource value: 0x7f0a004a
+			public const int abc_search_url_text = 2131361866;
 			
 			// aapt resource value: 0x7f0a0002
 			public const int abc_search_url_text_normal = 2131361794;
@@ -847,32 +847,32 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0a0004
 			public const int abc_search_url_text_selected = 2131361796;
 			
-			// aapt resource value: 0x7f0a004a
-			public const int abc_secondary_text_material_dark = 2131361866;
-			
 			// aapt resource value: 0x7f0a004b
-			public const int abc_secondary_text_material_light = 2131361867;
+			public const int abc_secondary_text_material_dark = 2131361867;
 			
 			// aapt resource value: 0x7f0a004c
-			public const int abc_tint_btn_checkable = 2131361868;
+			public const int abc_secondary_text_material_light = 2131361868;
 			
 			// aapt resource value: 0x7f0a004d
-			public const int abc_tint_default = 2131361869;
+			public const int abc_tint_btn_checkable = 2131361869;
 			
 			// aapt resource value: 0x7f0a004e
-			public const int abc_tint_edittext = 2131361870;
+			public const int abc_tint_default = 2131361870;
 			
 			// aapt resource value: 0x7f0a004f
-			public const int abc_tint_seek_thumb = 2131361871;
+			public const int abc_tint_edittext = 2131361871;
 			
 			// aapt resource value: 0x7f0a0050
-			public const int abc_tint_spinner = 2131361872;
+			public const int abc_tint_seek_thumb = 2131361872;
 			
 			// aapt resource value: 0x7f0a0051
-			public const int abc_tint_switch_thumb = 2131361873;
+			public const int abc_tint_spinner = 2131361873;
 			
 			// aapt resource value: 0x7f0a0052
-			public const int abc_tint_switch_track = 2131361874;
+			public const int abc_tint_switch_thumb = 2131361874;
+			
+			// aapt resource value: 0x7f0a0053
+			public const int abc_tint_switch_track = 2131361875;
 			
 			// aapt resource value: 0x7f0a0005
 			public const int accent_material_dark = 2131361797;
@@ -1033,11 +1033,11 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0a0038
 			public const int switch_thumb_disabled_material_light = 2131361848;
 			
-			// aapt resource value: 0x7f0a0053
-			public const int switch_thumb_material_dark = 2131361875;
-			
 			// aapt resource value: 0x7f0a0054
-			public const int switch_thumb_material_light = 2131361876;
+			public const int switch_thumb_material_dark = 2131361876;
+			
+			// aapt resource value: 0x7f0a0055
+			public const int switch_thumb_material_light = 2131361877;
 			
 			// aapt resource value: 0x7f0a0039
 			public const int switch_thumb_normal_material_dark = 2131361849;
@@ -1048,11 +1048,14 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0a003b
 			public const int theme_custom6_background = 2131361851;
 			
-			// aapt resource value: 0x7f0a003c
-			public const int theme_custom_background = 2131361852;
-			
 			// aapt resource value: 0x7f0a003d
-			public const int theme_devicedefault_background = 2131361853;
+			public const int theme_custom_background = 2131361853;
+			
+			// aapt resource value: 0x7f0a003e
+			public const int theme_devicedefault_background = 2131361854;
+			
+			// aapt resource value: 0x7f0a003c
+			public const int xavi_yellow = 2131361852;
 			
 			static Color()
 			{
@@ -1951,8 +1954,8 @@ namespace PhilAPPines
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0b0077
-			public const int action0 = 2131427447;
+			// aapt resource value: 0x7f0b007b
+			public const int action0 = 2131427451;
 			
 			// aapt resource value: 0x7f0b0047
 			public const int action_bar = 2131427399;
@@ -1975,17 +1978,17 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b0024
 			public const int action_bar_title = 2131427364;
 			
-			// aapt resource value: 0x7f0b0074
-			public const int action_container = 2131427444;
+			// aapt resource value: 0x7f0b0078
+			public const int action_container = 2131427448;
 			
 			// aapt resource value: 0x7f0b0048
 			public const int action_context_bar = 2131427400;
 			
-			// aapt resource value: 0x7f0b007b
-			public const int action_divider = 2131427451;
+			// aapt resource value: 0x7f0b007f
+			public const int action_divider = 2131427455;
 			
-			// aapt resource value: 0x7f0b0075
-			public const int action_image = 2131427445;
+			// aapt resource value: 0x7f0b0079
+			public const int action_image = 2131427449;
 			
 			// aapt resource value: 0x7f0b0002
 			public const int action_menu_divider = 2131427330;
@@ -2002,11 +2005,11 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b0026
 			public const int action_mode_close_button = 2131427366;
 			
-			// aapt resource value: 0x7f0b0076
-			public const int action_text = 2131427446;
+			// aapt resource value: 0x7f0b007a
+			public const int action_text = 2131427450;
 			
-			// aapt resource value: 0x7f0b0084
-			public const int actions = 2131427460;
+			// aapt resource value: 0x7f0b0088
+			public const int actions = 2131427464;
 			
 			// aapt resource value: 0x7f0b0027
 			public const int activity_chooser_view_content = 2131427367;
@@ -2029,14 +2032,14 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b002e
 			public const int buttonPanel = 2131427374;
 			
-			// aapt resource value: 0x7f0b0078
-			public const int cancel_action = 2131427448;
+			// aapt resource value: 0x7f0b007c
+			public const int cancel_action = 2131427452;
 			
 			// aapt resource value: 0x7f0b003e
 			public const int checkbox = 2131427390;
 			
-			// aapt resource value: 0x7f0b0080
-			public const int chronometer = 2131427456;
+			// aapt resource value: 0x7f0b0084
+			public const int chronometer = 2131427460;
 			
 			// aapt resource value: 0x7f0b001e
 			public const int collapseActionView = 2131427358;
@@ -2065,8 +2068,8 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b001b
 			public const int end = 2131427355;
 			
-			// aapt resource value: 0x7f0b008a
-			public const int end_padder = 2131427466;
+			// aapt resource value: 0x7f0b008e
+			public const int end_padder = 2131427470;
 			
 			// aapt resource value: 0x7f0b0028
 			public const int expand_activities_button = 2131427368;
@@ -2086,8 +2089,8 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b002c
 			public const int icon = 2131427372;
 			
-			// aapt resource value: 0x7f0b0085
-			public const int icon_group = 2131427461;
+			// aapt resource value: 0x7f0b0089
+			public const int icon_group = 2131427465;
 			
 			// aapt resource value: 0x7f0b001f
 			public const int ifRoom = 2131427359;
@@ -2113,6 +2116,24 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b005d
 			public const int imageButton6 = 2131427421;
 			
+			// aapt resource value: 0x7f0b0077
+			public const int imageButtonCAR = 2131427447;
+			
+			// aapt resource value: 0x7f0b0075
+			public const int imageButtonCL = 2131427445;
+			
+			// aapt resource value: 0x7f0b0076
+			public const int imageButtonCLB = 2131427446;
+			
+			// aapt resource value: 0x7f0b0090
+			public const int imageButtonCV = 2131427472;
+			
+			// aapt resource value: 0x7f0b0074
+			public const int imageButtonSUN = 2131427444;
+			
+			// aapt resource value: 0x7f0b008f
+			public const int imageButtonWV = 2131427471;
+			
 			// aapt resource value: 0x7f0b0059
 			public const int imageView1 = 2131427417;
 			
@@ -2131,14 +2152,14 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b0061
 			public const int imageView6 = 2131427425;
 			
-			// aapt resource value: 0x7f0b0081
-			public const int info = 2131427457;
+			// aapt resource value: 0x7f0b0085
+			public const int info = 2131427461;
 			
-			// aapt resource value: 0x7f0b0086
-			public const int line1 = 2131427462;
+			// aapt resource value: 0x7f0b008a
+			public const int line1 = 2131427466;
 			
-			// aapt resource value: 0x7f0b0088
-			public const int line3 = 2131427464;
+			// aapt resource value: 0x7f0b008c
+			public const int line3 = 2131427468;
 			
 			// aapt resource value: 0x7f0b0056
 			public const int linearLayout1 = 2131427414;
@@ -2149,8 +2170,8 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b002b
 			public const int list_item = 2131427371;
 			
-			// aapt resource value: 0x7f0b007a
-			public const int media_actions = 2131427450;
+			// aapt resource value: 0x7f0b007e
+			public const int media_actions = 2131427454;
 			
 			// aapt resource value: 0x7f0b001c
 			public const int middle = 2131427356;
@@ -2167,14 +2188,14 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b000a
 			public const int normal = 2131427338;
 			
-			// aapt resource value: 0x7f0b0083
-			public const int notification_background = 2131427459;
+			// aapt resource value: 0x7f0b0087
+			public const int notification_background = 2131427463;
 			
-			// aapt resource value: 0x7f0b007d
-			public const int notification_main_column = 2131427453;
+			// aapt resource value: 0x7f0b0081
+			public const int notification_main_column = 2131427457;
 			
-			// aapt resource value: 0x7f0b007c
-			public const int notification_main_column_container = 2131427452;
+			// aapt resource value: 0x7f0b0080
+			public const int notification_main_column_container = 2131427456;
 			
 			// aapt resource value: 0x7f0b0030
 			public const int parentPanel = 2131427376;
@@ -2188,11 +2209,11 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b0040
 			public const int radio = 2131427392;
 			
-			// aapt resource value: 0x7f0b0082
-			public const int right_icon = 2131427458;
+			// aapt resource value: 0x7f0b0086
+			public const int right_icon = 2131427462;
 			
-			// aapt resource value: 0x7f0b007e
-			public const int right_side = 2131427454;
+			// aapt resource value: 0x7f0b0082
+			public const int right_side = 2131427458;
 			
 			// aapt resource value: 0x7f0b0015
 			public const int screen = 2131427349;
@@ -2266,8 +2287,8 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b0018
 			public const int src_over = 2131427352;
 			
-			// aapt resource value: 0x7f0b0079
-			public const int status_bar_latest_event_content = 2131427449;
+			// aapt resource value: 0x7f0b007d
+			public const int status_bar_latest_event_content = 2131427453;
 			
 			// aapt resource value: 0x7f0b0041
 			public const int submenuarrow = 2131427393;
@@ -2278,11 +2299,11 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b000b
 			public const int tabMode = 2131427339;
 			
-			// aapt resource value: 0x7f0b0089
-			public const int text = 2131427465;
+			// aapt resource value: 0x7f0b008d
+			public const int text = 2131427469;
 			
-			// aapt resource value: 0x7f0b0087
-			public const int text2 = 2131427463;
+			// aapt resource value: 0x7f0b008b
+			public const int text2 = 2131427467;
 			
 			// aapt resource value: 0x7f0b0035
 			public const int textSpacerNoButtons = 2131427381;
@@ -2338,8 +2359,8 @@ namespace PhilAPPines
 			// aapt resource value: 0x7f0b006f
 			public const int textView9 = 2131427439;
 			
-			// aapt resource value: 0x7f0b007f
-			public const int time = 2131427455;
+			// aapt resource value: 0x7f0b0083
+			public const int time = 2131427459;
 			
 			// aapt resource value: 0x7f0b002d
 			public const int title = 2131427373;
@@ -2635,19 +2656,16 @@ namespace PhilAPPines
 			public const int WVIS = 2130968651;
 			
 			// aapt resource value: 0x7f04004c
-			public const int WVISAYAS = 2130968652;
+			public const int WVISAYASFOOD = 2130968652;
 			
 			// aapt resource value: 0x7f04004d
-			public const int WVISAYASFOOD = 2130968653;
+			public const int WVISAYASINFO = 2130968653;
 			
 			// aapt resource value: 0x7f04004e
-			public const int WVISAYASINFO = 2130968654;
+			public const int WVISAYASPLACES = 2130968654;
 			
 			// aapt resource value: 0x7f04004f
-			public const int WVISAYASPLACES = 2130968655;
-			
-			// aapt resource value: 0x7f040050
-			public const int WVISAYASPPL = 2130968656;
+			public const int WVISAYASPPL = 2130968655;
 			
 			static Layout()
 			{

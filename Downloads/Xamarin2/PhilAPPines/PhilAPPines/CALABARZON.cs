@@ -19,7 +19,6 @@ namespace PhilAPPines
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
             SetContentView(Resource.Layout.CALABARZON);
             sun = FindViewById<ImageButton>(Resource.Id.imageButton1);
             info = FindViewById<ImageButton>(Resource.Id.imageButton6);
@@ -59,7 +58,7 @@ namespace PhilAPPines
 
         private void Info_Click(object sender, EventArgs e)
         {
-            Intent INFOCBZNpage = new Intent(this, typeof(CBZNFOOD));
+            Intent INFOCBZNpage = new Intent(this, typeof(CBZNINFO));
             StartActivity(INFOCBZNpage);
         }
     }

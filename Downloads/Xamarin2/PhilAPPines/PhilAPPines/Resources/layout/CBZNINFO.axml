@@ -31,56 +31,67 @@
             android:layout_margin="0dp"
             android:layout_marginRight="50dp" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Other Info about CALABARZON"
             android:layout_marginLeft="45dp"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:id="@+id/textView1" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Also known as: Southern Tagalog Mainland, Region IV-A"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView4" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Composed of the following provinces:"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView9" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Cavite, Laguna, Batangas, Rizal, and Quezon"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView9" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Languages: Chavacano, Filipino, English"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView2" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Products: honey, flowers, bamboo, root crops"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView3" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Regional Center: Calamba, Laguna"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView5" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Distance from Ateneo to the region: 79.0km"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView9" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Fun facts: "
             android:layout_marginLeft="153dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView6" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="1. Laguna is the historical capital of the Philippines"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView7" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="2. Quezon is the coconut capital of the Philippines"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"

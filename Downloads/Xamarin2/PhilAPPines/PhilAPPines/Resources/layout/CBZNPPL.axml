@@ -42,7 +42,7 @@
             android:id="@+id/textView1"
             android:gravity="center_horizontal" />
         <ImageView
-            android:src="@drawable/car"
+            android:src="@drawable/calabarzon"
             android:layout_width="match_parent"
             android:layout_height="125.0dp"
             android:id="@+id/imageView1"

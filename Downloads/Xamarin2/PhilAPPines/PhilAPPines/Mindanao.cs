@@ -21,7 +21,7 @@ namespace PhilAPPines
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Mindanao);
-            Sun = FindViewById<ImageButton>(Resource.Id.imageButton1);
+            Sun = FindViewById<ImageButton>(Resource.Id.imageButton3);
             NMIN = FindViewById<ImageButton>(Resource.Id.imageButton2);
             NMIN.Click += NMIN_Click;
             Sun.Click += Sun_Click;

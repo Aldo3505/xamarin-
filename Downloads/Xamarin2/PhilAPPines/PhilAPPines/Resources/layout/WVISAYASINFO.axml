@@ -31,42 +31,50 @@
             android:layout_margin="0dp"
             android:layout_marginRight="50dp" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Other Info about WESTERN VISAYAS"
             android:layout_marginLeft="60dp"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:id="@+id/textView1" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Composed of the following provinces:"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView18" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Aklan, Antique, Capiz, Guimaras, Iloilo and Negros Occidental"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView19" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Languages: Hiligaynon, Aklanon, Capiznon, Kinaray-a, Cebuano, Filipino"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView8" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="Fun facts: "
             android:layout_marginLeft="153dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView14" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="1. For years 2015-2017, Negros Occidental was merged with Negros Oriental to form the Negros Island Region"
             android:layout_marginLeft="35dp"
             android:layout_marginRight="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView13" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="2. Guimaras is a well-known producer of the world's sweetest variety of mangoes, the carabao type"
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/textView8" />
         <TextView
+            android:textColor="@color/xavi.yellow"
             android:text="3. Iloilo is the region's rice granary and food basket."
             android:layout_marginLeft="35dp"
             android:textAppearance="?android:attr/textAppearanceMedium"

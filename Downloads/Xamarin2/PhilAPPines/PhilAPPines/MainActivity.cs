@@ -15,8 +15,10 @@ namespace PhilAPPines
     {
         ImageView VectorMap;
         ImageButton LZ, VS, MD;
+  
         protected override void OnCreate(Bundle bundle)
         {
+            base.OnCreate(bundle);
             SetContentView(Resource.Layout.Main);
             VectorMap = FindViewById<ImageView>(Resource.Drawable.vectormap);
             LZ = FindViewById<ImageButton>(Resource.Id.imageButton1);
@@ -43,6 +45,7 @@ namespace PhilAPPines
         {
             Intent LZ = new Intent(this, typeof(Luzon));
             StartActivity(LZ);
+
         }
     }
 }

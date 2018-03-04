@@ -22,7 +22,7 @@ namespace PhilAPPines
         {
             base.OnCreate(savedInstanceState);
 
-            SetContentView(Resource.Layout.CBZNFOOD);
+            SetContentView(Resource.Layout.CBZNPPL);
             Sun = FindViewById<ImageButton>(Resource.Id.imageButton1);
             description = FindViewById<TextView>(Resource.Id.textView1);
             pers1 = FindViewById<TextView>(Resource.Id.textView2);

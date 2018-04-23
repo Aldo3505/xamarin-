@@ -36,3 +36,7 @@ obj/
 .externalNativeBuild
 
 /app/google-services.json
+
+../zeus-web
+../backup.json
+../users.json

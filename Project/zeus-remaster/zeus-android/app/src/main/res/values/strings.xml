@@ -52,7 +52,7 @@
     <string name="button_qr_start_scan">Start Scan</string>
     <string name="button_qr_register">Register Device</string>
     <string name="welcome_text">Welcome</string>
-    <string name="delinquent_user">User is <b>Delinquent</b>\nVerification Required</string>
+    <string name="delinquent_user">Looks like you have been gone awile!\n\n\n Proceed with <b>Verification</b> to \nlet your team know you are back!</string>
     <string name="info_delinquency">It may take up to 30 seconds for the verification to reflect.\nMake sure Bluetooth and Internet Connectivity is on.</string>
 
 

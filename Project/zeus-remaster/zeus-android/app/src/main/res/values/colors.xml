@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="kinda_blue">#ececec</color>
+    <color name="fade_Accent">#6437474f</color>
+    <color name="dark">#080e13</color>
+    <color name="colorPrimaryDark">#202a2e</color>
+    <color name="colorAccent">#2c373d</color>
+    <color name="darkBlue">#0d2029</color>
+    <color name="red1">#a9241d</color>
+    <color name="dim_white">#a0979797</color>
+    <color name="green">#308322</color>
+    <color name="green_ripple">#b1b1b1</color>
+    <color name="red">#d12121</color>
+    <color name="red_ripple">#b1b1b1</color>
+
+</resources>

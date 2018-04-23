@@ -1,0 +1,67 @@
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable name="model" type="house_quarantine.liquid_studio.com.android_tracker.main.onboarding.nfc.NfcViewModel"/>
+        <variable name="handler" type="house_quarantine.liquid_studio.com.android_tracker.main.onboarding.nfc.NfcHandler"/>
+
+        <import type="android.view.View" />
+    </data>
+
+<android.support.constraint.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    tools:context="house_quarantine.liquid_studio.com.android_tracker.main.nfc.NfcFragment">
+
+    <ImageView
+        android:id="@+id/nfcimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/wifi_string"
+        android:src="@drawable/nfc1x"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.507" />
+
+    <TextView
+        android:id="@+id/textView3"
+        style="@style/InfoFont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="36dp"
+        android:text="@string/app_label_nfc_registration"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="32dp"
+        app:layout_constraintBottom_toTopOf="@+id/nfcimage"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+
+        android:text="Please place your phone against the device kit."
+        android:textAlignment="center"
+        android:textAppearance="@style/InfoFont"
+        app:layout_constraintBottom_toTopOf="@+id/nfcimage"
+        app:layout_constraintEnd_toEndOf="@+id/textView3"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="@+id/textView3"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.089999974" />
+
+</android.support.constraint.ConstraintLayout>
+</layout>

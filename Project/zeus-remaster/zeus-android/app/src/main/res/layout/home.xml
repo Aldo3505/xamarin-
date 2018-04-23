@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/homeTitle"
+        style="@style/InfoFont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="@string/welcome_text"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="36dp"
+        app:layout_constraintBottom_toTopOf="@+id/reg_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/reg_button"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_marginTop="30dp"
+        android:background="@color/colorPrimaryDark"
+        android:contentDescription="@string/wifi_string"
+        android:scaleX=".9"
+        android:scaleY=".9"
+        android:drawableTop="@drawable/reg_device"
+        android:elevation="0dp"
+        android:src="@drawable/reg_device"
+        android:text="New Patient Device Setup"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.233" />
+
+    <Button
+        android:id="@+id/monitor_button"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="235dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="10dp"
+        android:scaleX=".9"
+        android:scaleY=".9"
+        android:background="@color/colorPrimaryDark"
+        android:contentDescription="@string/wifi_string"
+        android:drawableTop="@drawable/proximity_icon"
+        android:elevation="0dp"
+        android:src="@drawable/reg_device"
+        android:text="Monitor Patient"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="18dp"
+        app:layout_constraintEnd_toEndOf="@+id/reg_button"
+        app:layout_constraintHorizontal_bias="0.6"
+
+        app:layout_constraintStart_toStartOf="@+id/reg_button"
+        app:layout_constraintTop_toBottomOf="@+id/reg_button" />
+
+    <!--<ImageView-->
+        <!--android:id="@+id/regLogo"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="153dp"-->
+        <!--android:alpha=".5"-->
+        <!--android:contentDescription="@string/wifi_string"-->
+        <!--android:src="@drawable/reg_device"-->
+        <!--app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:layout_constraintTop_toTopOf="parent"-->
+        <!--app:layout_constraintVertical_bias="0.233" />-->
+
+
+    <!--<TextView-->
+        <!--android:id="@+id/textView4"-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="49dp"-->
+        <!--android:layout_marginBottom="8dp"-->
+
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:text="New Patient Device Setup"-->
+        <!--android:textAlignment="center"-->
+        <!--android:textAppearance="@style/MenuButtonFont"-->
+        <!--app:layout_constraintBottom_toTopOf="@+id/monitorLogo"-->
+        <!--app:layout_constraintEnd_toEndOf="@+id/regLogo"-->
+        <!--app:layout_constraintHorizontal_bias="0.0"-->
+        <!--app:layout_constraintStart_toStartOf="@+id/regLogo"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/regLogo"-->
+        <!--app:layout_constraintVertical_bias="0.089999974" />-->
+
+    <!--<ImageView-->
+        <!--android:id="@+id/monitorLogo"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="153dp"-->
+        <!--android:alpha=".5"-->
+        <!--android:contentDescription="@string/wifi_string"-->
+        <!--android:src="@drawable/proximity_icon"-->
+        <!--app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:layout_constraintTop_toTopOf="parent"-->
+        <!--app:layout_constraintVertical_bias="0.727" />-->
+
+
+    <!--<TextView-->
+        <!--android:id="@+id/monitorText"-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="49dp"-->
+        <!--android:layout_marginBottom="0dp"-->
+
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:text="Monitor Patient"-->
+        <!--android:textAlignment="center"-->
+        <!--android:textAppearance="@style/MenuButtonFont"-->
+        <!--app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--app:layout_constraintEnd_toEndOf="@+id/monitorLogo"-->
+        <!--app:layout_constraintHorizontal_bias="1.0"-->
+        <!--app:layout_constraintStart_toStartOf="@+id/monitorLogo"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/monitorLogo"-->
+        <!--app:layout_constraintVertical_bias="0.089999974" />-->
+
+</android.support.constraint.ConstraintLayout>

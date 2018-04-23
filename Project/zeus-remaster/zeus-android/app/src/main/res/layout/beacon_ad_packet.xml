@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <import type="android.view.View"/>
+        <variable
+            name="model"
+            type="house_quarantine.liquid_studio.com.android_tracker.main.BluetoothScanner.BeaconScanData" />
+
+        <import type="house_quarantine.liquid_studio.com.android_tracker.main.HomeViewModel"/>
+
+    </data>
+
+
+    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_margin="4dp"
+        card_view:cardBackgroundColor="@color/colorAccent"
+        card_view:cardCornerRadius="12dp">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="300dp"
+            android:animationCache="false"
+            android:background="@drawable/disconnected"
+            android:scaleType="centerCrop"
+            android:visibility="@{model.threshold > 100 ? View.VISIBLE : View.INVISIBLE}">
+        </FrameLayout>
+
+        <android.support.v7.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:padding="8dp">
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight=".85"
+                android:orientation="horizontal"
+                android:paddingLeft="8dp">
+
+                <LinearLayout
+                    android:id="@+id/lin"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="4"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:id="@+id/name_icn"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight=".1"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:id="@+id/wearable"
+                            android:layout_width="15dp"
+                            android:layout_height="15dp"
+                            android:layout_gravity="center_vertical|center"
+                            android:src="@{(model.name.length() > 6 ? @drawable/wearable_icn : @drawable/beacon_icn)}" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/range_icon"
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp">
+
+
+                        <ImageView
+                            android:id="@+id/location_off"
+                            android:layout_width="match_parent"
+                            android:layout_height="fill_parent"
+                            android:alpha="@{(model.threshold > 100 ? .5f : 1f)}"
+                            android:padding="4dp"
+                            android:scaleType="fitCenter"
+                            android:src="@{(model.threshold > 100 ? @drawable/prox_off : @drawable/custom_location)}" />
+
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@{@string/name_format(model.name)}"
+                        android:textAppearance="@style/StandardFont"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/far_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_margin="2dp"
+                        android:layout_marginStart="12dp"
+                        android:gravity="center_vertical"
+                        android:text="@{model.threshold > 50 ? (model.threshold > 100 ? @string/rangeOut : @string/far) : @string/near}"
+                        android:textAlignment="textStart"
+                        android:textAppearance="@style/StandardFont"
+                        android:textColor="@color/cardview_light_background"
+                        android:textSize="20sp" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/text_last_updated"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="2dp"
+                    android:layout_weight="1"
+                    android:padding="4dp"
+                    android:text="@{HomeViewModel.formatTimeStamp(model.timeStamp)}"
+                    android:textAppearance="@style/StandardFont"
+                    android:textSize="10dp" />
+
+                <TextView
+                    android:id="@+id/text_estimated_range"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="bottom"
+                    android:layout_margin="2dp"
+                    android:layout_weight="1"
+                    android:gravity="bottom"
+                    android:padding="4dp"
+                    android:text="@{model.accuracy > 999 ? @string/no_signal : @string/est_range_format(model.accuracy)}"
+                    android:textAppearance="@style/StandardFont"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <ProgressBar
+                    android:id="@+id/progressBar2"
+                    style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1.2"
+                    android:animationResolution="10"
+                    android:padding="4dp"
+                    android:progress="@{model.threshold}"
+                    android:progressTint="@color/cardview_light_background"
+                    android:radius="120dp"
+                    android:scaleY="2.5" />
+
+            </LinearLayout>
+
+
+        </android.support.v7.widget.LinearLayoutCompat>
+
+    </android.support.v7.widget.CardView>
+
+
+</layout>

@@ -1,0 +1,4 @@
+#Mon Apr 23 16:51:59 PHT 2018
+base.0=/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

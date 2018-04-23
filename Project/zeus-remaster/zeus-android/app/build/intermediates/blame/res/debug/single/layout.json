@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/nfc_fragment.xml",
+        "source": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/res/layout/nfc_fragment.xml"
+    },
+    {
+        "merged": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/beacon_ad_packet.xml",
+        "source": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/res/layout/beacon_ad_packet.xml"
+    },
+    {
+        "merged": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_user_form.xml",
+        "source": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/res/layout/fragment_user_form.xml"
+    },
+    {
+        "merged": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/facial_registration.xml",
+        "source": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/res/layout/facial_registration.xml"
+    },
+    {
+        "merged": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_qr.xml",
+        "source": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/res/layout/fragment_qr.xml"
+    },
+    {
+        "merged": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_activity.xml",
+        "source": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_qr_wearable.xml",
+        "source": "/Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/res/layout/fragment_qr_wearable.xml"
+    }
+]

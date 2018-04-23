@@ -1,0 +1,567 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:2:1-94:12
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/7e801022463ef0858b9743a164b24b20/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/65b2bf65528dc7d901a3bf11934cd965/AndroidManifest.xml:17:1-26:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/d2abcd6cd9c00e948f68cae2e1750ea7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.clans:fab:1.6.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/fd63eeb02e68cea711d17f801a4dc993/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/90b2c46b342427892a2d1c650ac1fd21/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/cfc7bff94e144efb9cc2d410955185db/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60907681cbf6f3f2fe9b830f29c7996e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/ed9ac6bd89b19d915d311a78f927bf12/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/098c749f3e27e591e4375b68279c5a3b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/8628e3b0d5acd4339fe134dfe1258663/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/73453b09ebda4d6a10f9c5130ef60823/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/beab3724806f2e91d97d45c04c9d8d50/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/24e42efd91ec2c04838da16e8c283fb9/AndroidManifest.xml:2:1-5:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/d1611635f6a7dbe99a1d8abb5f04c627/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:transition:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c804a8c94d4d452f6cd864152984b22f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/1e92d1f7974f646bd6a34e9ca9a5c09a/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/e4cd2ee591f4d3afcd24ab8f9a578cda/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/824edda0168897868bb010a9919f69d9/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/f87e34329cadbe4c8e88b8ae1470381a/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/d129462f754f31edf3ac00b1e5b82365/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/a444e9a5d609f51a88ca6d00ab06d046/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/6f6a623183fcddb41a08e7712f1310f5/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3185875d14a23d7d7afd64e70610c841/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/17d9dd02c964c36fd7f104492654b5b4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/125a40bf8658a2796a2897fb64eb6a7e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4e479feffb879f8daa7cb6b444c7beb2/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.core:runtime:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01b8161c7c15dda221fded9c558d466e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9dd8b76cd94fbaf271c0314937a1f733/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e340119127e723708e91dae14468114/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/be16d7df134eb8f6a8a1743f20bec14d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/232ecba7c187df54ab8d1ec81cd69387/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0ff90a40f7dc1ca421f02ded90396883/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/90495c412818c310552f6021fd8e5c16/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:3:5-65
+		INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:2:1-94:12
+		INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:2:1-94:12
+		INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:5:5-84
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:6:5-90
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.NFC
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:10:5-62
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:10:22-59
+uses-permission#android.permission.INTERNET
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:13:22-62
+uses-feature#android.hardware.NFC
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:14:5-15:34
+	android:required
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:14:19-54
+uses-feature#android.hardware.camera
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:16:5-17:35
+	android:required
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:16:19-57
+application
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:20:5-92:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/d2abcd6cd9c00e948f68cae2e1750ea7/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/d2abcd6cd9c00e948f68cae2e1750ea7/AndroidManifest.xml:9:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/fd63eeb02e68cea711d17f801a4dc993/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/fd63eeb02e68cea711d17f801a4dc993/AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/90b2c46b342427892a2d1c650ac1fd21/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/90b2c46b342427892a2d1c650ac1fd21/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:design:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/cfc7bff94e144efb9cc2d410955185db/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/cfc7bff94e144efb9cc2d410955185db/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60907681cbf6f3f2fe9b830f29c7996e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60907681cbf6f3f2fe9b830f29c7996e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/ed9ac6bd89b19d915d311a78f927bf12/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/ed9ac6bd89b19d915d311a78f927bf12/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/098c749f3e27e591e4375b68279c5a3b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/098c749f3e27e591e4375b68279c5a3b/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/beab3724806f2e91d97d45c04c9d8d50/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/beab3724806f2e91d97d45c04c9d8d50/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/24e42efd91ec2c04838da16e8c283fb9/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/24e42efd91ec2c04838da16e8c283fb9/AndroidManifest.xml:4:5-19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/d1611635f6a7dbe99a1d8abb5f04c627/AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/d1611635f6a7dbe99a1d8abb5f04c627/AndroidManifest.xml:24:5-30:19
+MERGED from [com.android.support:transition:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c804a8c94d4d452f6cd864152984b22f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c804a8c94d4d452f6cd864152984b22f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/e4cd2ee591f4d3afcd24ab8f9a578cda/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/e4cd2ee591f4d3afcd24ab8f9a578cda/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/824edda0168897868bb010a9919f69d9/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/824edda0168897868bb010a9919f69d9/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/f87e34329cadbe4c8e88b8ae1470381a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/f87e34329cadbe4c8e88b8ae1470381a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/d129462f754f31edf3ac00b1e5b82365/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/d129462f754f31edf3ac00b1e5b82365/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/6f6a623183fcddb41a08e7712f1310f5/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/6f6a623183fcddb41a08e7712f1310f5/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3185875d14a23d7d7afd64e70610c841/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3185875d14a23d7d7afd64e70610c841/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/17d9dd02c964c36fd7f104492654b5b4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/17d9dd02c964c36fd7f104492654b5b4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/125a40bf8658a2796a2897fb64eb6a7e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/125a40bf8658a2796a2897fb64eb6a7e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4e479feffb879f8daa7cb6b444c7beb2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4e479feffb879f8daa7cb6b444c7beb2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9dd8b76cd94fbaf271c0314937a1f733/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9dd8b76cd94fbaf271c0314937a1f733/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e340119127e723708e91dae14468114/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e340119127e723708e91dae14468114/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/be16d7df134eb8f6a8a1743f20bec14d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/be16d7df134eb8f6a8a1743f20bec14d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/232ecba7c187df54ab8d1ec81cd69387/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/232ecba7c187df54ab8d1ec81cd69387/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0ff90a40f7dc1ca421f02ded90396883/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0ff90a40f7dc1ca421f02ded90396883/AndroidManifest.xml:25:5-29:19
+	android:screenOrientation
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:26:9-45
+	android:supportsRtl
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:27:9-40
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:grantUriPermissions
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:32:13-47
+	android:authorities
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:30:13-85
+	android:exported
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:29:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:33:13-35:64
+	android:resource
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:35:17-51
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:34:17-67
+activity#house_quarantine.liquid_studio.com.android_tracker.main.MainActivity
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:38:9-44:20
+	android:screenOrientation
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:42:13-49
+	android:clearTaskOnLaunch
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:43:13-45
+	android:label
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:41:13-45
+	android:launchMode
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:40:13-43
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:39:13-46
+activity#house_quarantine.liquid_studio.com.android_tracker.main.splashActivity.HomeActivity
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:47:9-59:20
+	android:screenOrientation
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:49:13-49
+	android:clearTaskOnLaunch
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:52:13-45
+	android:label
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:50:13-45
+	android:launchMode
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:48:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:54:13-57:29
+action#android.intent.action.MAIN
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:56:27-74
+activity#house_quarantine.liquid_studio.com.android_tracker.main.splashActivity.SplashComplete
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:61:9-65:20
+	android:screenOrientation
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:62:13-63
+activity#house_quarantine.liquid_studio.com.android_tracker.main.NfcActivity.NfcManager
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:66:9-80:20
+	android:screenOrientation
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:69:13-39
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:67:13-56
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:71:13-77:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:72:25-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:73:17-76
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:73:27-73
+data
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:74:17-76:45
+	android:host
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:75:21-51
+	android:scheme
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:76:21-42
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:78:13-79:57
+	android:resource
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:79:17-54
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:78:24-73
+activity#house_quarantine.liquid_studio.com.android_tracker.main.FacecheckActivity.CameraActivity
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:81:9-85:20
+	android:screenOrientation
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:84:13-40
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:82:13-66
+activity#house_quarantine.liquid_studio.com.android_tracker.main.onboarding.OnboardingActivity
+ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:87:9-90:20
+	android:screenOrientation
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml:87:19-69
+uses-sdk
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/7e801022463ef0858b9743a164b24b20/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/7e801022463ef0858b9743a164b24b20/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/65b2bf65528dc7d901a3bf11934cd965/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/65b2bf65528dc7d901a3bf11934cd965/AndroidManifest.xml:22:5-24:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/d2abcd6cd9c00e948f68cae2e1750ea7/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/d2abcd6cd9c00e948f68cae2e1750ea7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/fd63eeb02e68cea711d17f801a4dc993/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/fd63eeb02e68cea711d17f801a4dc993/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/90b2c46b342427892a2d1c650ac1fd21/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/90b2c46b342427892a2d1c650ac1fd21/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:design:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/cfc7bff94e144efb9cc2d410955185db/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/cfc7bff94e144efb9cc2d410955185db/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60907681cbf6f3f2fe9b830f29c7996e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60907681cbf6f3f2fe9b830f29c7996e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/ed9ac6bd89b19d915d311a78f927bf12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/ed9ac6bd89b19d915d311a78f927bf12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/098c749f3e27e591e4375b68279c5a3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/098c749f3e27e591e4375b68279c5a3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/8628e3b0d5acd4339fe134dfe1258663/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/8628e3b0d5acd4339fe134dfe1258663/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/73453b09ebda4d6a10f9c5130ef60823/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/73453b09ebda4d6a10f9c5130ef60823/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/beab3724806f2e91d97d45c04c9d8d50/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/beab3724806f2e91d97d45c04c9d8d50/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/24e42efd91ec2c04838da16e8c283fb9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/24e42efd91ec2c04838da16e8c283fb9/AndroidManifest.xml:3:5-43
+MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/d1611635f6a7dbe99a1d8abb5f04c627/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/d1611635f6a7dbe99a1d8abb5f04c627/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:transition:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c804a8c94d4d452f6cd864152984b22f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c804a8c94d4d452f6cd864152984b22f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/1e92d1f7974f646bd6a34e9ca9a5c09a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/1e92d1f7974f646bd6a34e9ca9a5c09a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/e4cd2ee591f4d3afcd24ab8f9a578cda/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/e4cd2ee591f4d3afcd24ab8f9a578cda/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/824edda0168897868bb010a9919f69d9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/824edda0168897868bb010a9919f69d9/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/f87e34329cadbe4c8e88b8ae1470381a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/f87e34329cadbe4c8e88b8ae1470381a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/d129462f754f31edf3ac00b1e5b82365/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/d129462f754f31edf3ac00b1e5b82365/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/a444e9a5d609f51a88ca6d00ab06d046/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/a444e9a5d609f51a88ca6d00ab06d046/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/6f6a623183fcddb41a08e7712f1310f5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/6f6a623183fcddb41a08e7712f1310f5/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3185875d14a23d7d7afd64e70610c841/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3185875d14a23d7d7afd64e70610c841/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/17d9dd02c964c36fd7f104492654b5b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/17d9dd02c964c36fd7f104492654b5b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/125a40bf8658a2796a2897fb64eb6a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/125a40bf8658a2796a2897fb64eb6a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4e479feffb879f8daa7cb6b444c7beb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4e479feffb879f8daa7cb6b444c7beb2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01b8161c7c15dda221fded9c558d466e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/01b8161c7c15dda221fded9c558d466e/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9dd8b76cd94fbaf271c0314937a1f733/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9dd8b76cd94fbaf271c0314937a1f733/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e340119127e723708e91dae14468114/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e340119127e723708e91dae14468114/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/be16d7df134eb8f6a8a1743f20bec14d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/be16d7df134eb8f6a8a1743f20bec14d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/232ecba7c187df54ab8d1ec81cd69387/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/232ecba7c187df54ab8d1ec81cd69387/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0ff90a40f7dc1ca421f02ded90396883/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0ff90a40f7dc1ca421f02ded90396883/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/90495c412818c310552f6021fd8e5c16/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/90495c412818c310552f6021fd8e5c16/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/cfc7bff94e144efb9cc2d410955185db/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshua.a.t.tabilog/Project/zeus-remaster/zeus-android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/cfc7bff94e144efb9cc2d410955185db/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60907681cbf6f3f2fe9b830f29c7996e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60907681cbf6f3f2fe9b830f29c7996e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/ed9ac6bd89b19d915d311a78f927bf12/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/ed9ac6bd89b19d915d311a78f927bf12/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c804a8c94d4d452f6cd864152984b22f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/c804a8c94d4d452f6cd864152984b22f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3185875d14a23d7d7afd64e70610c841/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3185875d14a23d7d7afd64e70610c841/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/17d9dd02c964c36fd7f104492654b5b4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/17d9dd02c964c36fd7f104492654b5b4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/125a40bf8658a2796a2897fb64eb6a7e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/125a40bf8658a2796a2897fb64eb6a7e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4e479feffb879f8daa7cb6b444c7beb2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4e479feffb879f8daa7cb6b444c7beb2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9dd8b76cd94fbaf271c0314937a1f733/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9dd8b76cd94fbaf271c0314937a1f733/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e340119127e723708e91dae14468114/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e340119127e723708e91dae14468114/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/be16d7df134eb8f6a8a1743f20bec14d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/be16d7df134eb8f6a8a1743f20bec14d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/232ecba7c187df54ab8d1ec81cd69387/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/232ecba7c187df54ab8d1ec81cd69387/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0ff90a40f7dc1ca421f02ded90396883/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0ff90a40f7dc1ca421f02ded90396883/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/cfc7bff94e144efb9cc2d410955185db/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/cfc7bff94e144efb9cc2d410955185db/AndroidManifest.xml:27:13-51
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/d1611635f6a7dbe99a1d8abb5f04c627/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/d1611635f6a7dbe99a1d8abb5f04c627/AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/d1611635f6a7dbe99a1d8abb5f04c627/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/d1611635f6a7dbe99a1d8abb5f04c627/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/d1611635f6a7dbe99a1d8abb5f04c627/AndroidManifest.xml:26:13-83
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/202e59dde5f0e707ababc90db8e913fb/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/c5ffa8b402c20a516a765582588b3378/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:24:17-71
+permission#house_quarantine.liquid_studio.com.android_tracker.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:26:22-76
+uses-permission#house_quarantine.liquid_studio.com.android_tracker.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:31:13-34:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+house_quarantine.liquid_studio.com.android_tracker
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:33:27-58
+category#house_quarantine.liquid_studio.com.android_tracker
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/8ecb194661605fdbbd5f92f9047f6087/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/e4cd2ee591f4d3afcd24ab8f9a578cda/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/e4cd2ee591f4d3afcd24ab8f9a578cda/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/e4cd2ee591f4d3afcd24ab8f9a578cda/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/e4cd2ee591f4d3afcd24ab8f9a578cda/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/e4cd2ee591f4d3afcd24ab8f9a578cda/AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/f87e34329cadbe4c8e88b8ae1470381a/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/f87e34329cadbe4c8e88b8ae1470381a/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/f87e34329cadbe4c8e88b8ae1470381a/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/f87e34329cadbe4c8e88b8ae1470381a/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/6f6a623183fcddb41a08e7712f1310f5/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/6f6a623183fcddb41a08e7712f1310f5/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/joshua.a.t.tabilog/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/6f6a623183fcddb41a08e7712f1310f5/AndroidManifest.xml:20:20-65

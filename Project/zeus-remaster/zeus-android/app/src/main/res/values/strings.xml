@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">MOH-HQ DEMO</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Facial Recognition</string>
+    <string name="title_notifications">NFC</string>
+    <string name="battery_level_format">%.0f%%</string>
+    <string name="wifi_string">%s</string>
+    <string name="range_format">Estimated range: %4.2f m</string>
+    <string name="address_format">Device: %s</string>
+    <string name="uuid_format">UUID: %s</string>
+    <string name="major_minor_format">Major: %d Minor %d</string>
+    <string name="rssi_tx_format">RSSI: %4.2f dBm Tx: %4.2f dBm</string>
+    <string name="est_range_format">%4.2f m</string>
+    <string name="last_update_format">%d</string>
+    <string name="name_format">%s</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="far">Far</string>
+    <string name="near">Near</string>
+    <string name ="Wearable">Wearable</string>
+    <string name="rangeOut">Out of Range</string>
+    <string name="no_signal">No Signal</string>
+    <string name="toast_scanned_qr_success">Device Kit registration successful!</string>
+    <string name="toast_scanned_wearable_success">Wearable registration successful!</string>
+    <string name="toast_scanned_qr_fail">Invalid QR Code.</string>
+    <string name="toast_scanned_verification_face_fail">Face Verification unsuccessful. Please try again.</string>
+    <string name="toast_scanned_verification_face_success">Face Verification successful.</string>
+    <string name="toast_nfc_success">NFC registration successful!</string>
+    <string name="toast_nfc_verification_success">NFC Verification successful.\nVerified ID: %s</string>
+    <string name="notif_default_content">Scanning for devices</string>
+    <string name="app_label_scanning_state">Scanning for known beacons</string>
+    <string name="app_label_start_monitoring">Press to begin Active Monitoring</string>
+    <string name="app_label_scanning">Active Monitoring in Progress</string>
+    <string name="app_label_register_header">Register</string>
+    <string name="app_label_await_connection">Awaiting Internet Connection</string>
+    <string name="app_label_register_instructions">Register HQ Subject\'s Personal Details</string>
+    <string name="app_label_device">Device Kit Registration</string>
+    <string name="app_label_wristband">Wearable Registration</string>
+    <string name="text_waiting">Waiting for a valid QR Code</string>
+    <string name="app_label_device_instructions">Please scan the Device Kit QR code to register.</string>
+    <string name="app_label_wristband_instructions">Please scan the Wearable QR code to register.</string>
+    <string name="app_error_no_bt">Bluetooth is required for this app</string>
+    <string name="app_error_no_loc_permission">Location permission is needed by this app</string>
+    <string name="app_label_nfc_registration">NFC Registration</string>
+    <string name="app_label_nfc_instructions">Tap the device to the NFC</string>
+    <string name="edit_hint_full_name">Full name</string>
+    <string name="edit_hint_nric">NRIC</string>
+    <string name="edit_hint_address">Address</string>
+    <string name="edit_hint_contact">Contact</string>
+    <string name="button_user_sign_in">Sign In</string>
+    <string name="button_qr_stop_scan">Stop Scan</string>
+    <string name="button_qr_start_scan">Start Scan</string>
+    <string name="button_qr_register">Register Device</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="delinquent_user">User is <b>Delinquent</b>\nVerification Required</string>
+    <string name="info_delinquency">It may take up to 30 seconds for the verification to reflect.\nMake sure Bluetooth and Internet Connectivity is on.</string>
+
+
+
+
+
+</resources>

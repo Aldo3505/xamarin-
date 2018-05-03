@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chimera-ble</string>
+    <string name="firebase_path">CHIMERA</string>
+    <string name="beacons_path">Beacons</string>
+</resources>
